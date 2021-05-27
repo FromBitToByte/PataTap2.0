@@ -1,0 +1,10 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+#bodyCanvas{
+    width: 100%;
+    /* background-color: #ff0000; */
+    background-color: black;
+    margin: 0;
+}
